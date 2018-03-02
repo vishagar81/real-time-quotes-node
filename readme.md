@@ -32,6 +32,11 @@ Steps:
 Note: Please compare the performance of multiple node worker processes running on multiple cores as opposed to 1 node process running on multiple cores usng "ab" tool from apache, here, https://www.apachelounge.com/download/
 Unzip the contents, the tool is located in the bin folder.
 
+Additional Reading resources:
+1) https://www.digitalocean.com/community/tutorials/an-introduction-to-haproxy-and-load-balancing-concepts#high-availability
+2) https://www.digitalocean.com/community/tutorials/5-common-server-setups-for-your-web-application
+3) https://github.com/donnemartin/system-design-primer
+
 
 
 
